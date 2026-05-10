@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "dev:clean": "taskkill /F /IM node.exe 2>nul & rmdir /S /Q .\\.next 2>nul & next dev",
-    "build": "next build",
+    "build": "npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit"
