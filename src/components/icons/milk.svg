@@ -1,0 +1,14 @@
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="40" cy="40" r="35" fill="#FEF3C7"/>
+  <!-- 牛奶杯 -->
+  <path d="M25 55 L28 30 L52 30 L55 55 Q40 60 25 55Z" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <!-- 牛奶液面 -->
+  <ellipse cx="40" cy="32" rx="12" ry="4" fill="#F9FAFB"/>
+  <!-- 吸管 -->
+  <rect x="43" y="15" width="4" height="25" rx="2" fill="#60A5FA"/>
+  <rect x="43" y="15" width="4" height="8" rx="2" fill="#3B82F6"/>
+  <!-- 牛奶波浪 -->
+  <path d="M30 40 Q35 38 40 40 Q45 42 50 40" stroke="#E5E7EB" stroke-width="1.5" fill="none"/>
+  <path d="M28 48 Q35 45 40 48 Q45 51 52 48" stroke="#E5E7EB" stroke-width="1.5" fill="none"/>
+</svg>

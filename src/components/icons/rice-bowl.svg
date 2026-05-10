@@ -1,0 +1,14 @@
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="40" cy="40" r="35" fill="#FEF3C7"/>
+  <!-- 米饭碗 -->
+  <ellipse cx="40" cy="50" rx="25" ry="8" fill="#E5E7EB"/>
+  <path d="M15 50 Q15 35 40 35 Q65 35 65 50" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <ellipse cx="40" cy="50" rx="25" ry="8" fill="#FAFAFA"/>
+  <!-- 米饭粒纹理 -->
+  <circle cx="30" cy="45" r="2" fill="#F3F4F6"/>
+  <circle cx="40" cy="42" r="2" fill="#F3F4F6"/>
+  <circle cx="50" cy="46" r="2" fill="#F3F4F6"/>
+  <circle cx="35" cy="48" r="1.5" fill="#F3F4F6"/>
+  <circle cx="45" cy="43" r="1.5" fill="#F3F4F6"/>
+</svg>

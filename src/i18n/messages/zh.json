@@ -1,0 +1,14 @@
+{
+  "health": {
+    "title": "养生知识",
+    "subtitle": "每天学一点，健康多一点",
+    "all": "全部",
+    "readTime": "秒阅读",
+    "progress": "第 {current} / {total} 张",
+    "prev": "← 上一篇",
+    "next": "下一篇 →",
+    "nextPreview": "下一篇预告：",
+    "totalCards": "已收录 {count} 张知识卡片",
+    "actionTip": "行动建议"
+  }
+}

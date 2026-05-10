@@ -1,0 +1,11 @@
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="40" cy="40" r="35" fill="#FEF3C7"/>
+  <!-- 肉块 -->
+  <path d="M25 55 L30 25 L50 25 L55 55 Q40 65 25 55Z" fill="#F87171" stroke="#EF4444" stroke-width="2"/>
+  <!-- 脂肪纹理 -->
+  <path d="M32 35 Q40 32 48 35" stroke="#FCA5A5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M31 45 Q40 42 49 45" stroke="#FCA5A5" stroke-width="4" stroke-linecap="round"/>
+  <!-- 高光 -->
+  <path d="M33 28 L35 40" stroke="#FECACA" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+</svg>

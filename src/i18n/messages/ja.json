@@ -1,0 +1,14 @@
+{
+  "health": {
+    "title": "养生知識",
+    "subtitle": "毎日少し学んで、健康多一点",
+    "all": "全部",
+    "readTime": "秒阅读",
+    "progress": "第 {current} / {total} 枚",
+    "prev": "← 上一篇",
+    "next": "下一篇 →",
+    "nextPreview": "下一篇予告：",
+    "totalCards": "収録 {count} 枚の知識カード",
+    "actionTip": "行動提案"
+  }
+}
